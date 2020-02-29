@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YTxgAk52Z7ZNVoDzJVeMmwM7Zd" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1010" y="379" key="FileChooserDialogImpl" timestamp="1582980535026">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="379" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1582980535026" />
+  </component>
+</project>
